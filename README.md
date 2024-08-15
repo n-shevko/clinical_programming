@@ -25,9 +25,12 @@ Due to [de-identification](https://datashare.nida.nih.gov/sites/default/files/st
 
 The raw data has 0 day in the date columns.
 Day 0 isn't allowed in SDTM so the date columns were modified by the next logic:
-if raw_data_study_day >= 0 then study_day_in_sdtm = raw_data_study_day + 1
-else study_day_in_sdtm = raw_data_study_day
-
+```
+if raw_data_study_day >= 0
+  then study_day_in_sdtm = raw_data_study_day + 1
+else
+  study_day_in_sdtm = raw_data_study_day
+```
 
 #### DM dataset
 
