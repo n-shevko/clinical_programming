@@ -1,4 +1,3 @@
-The purpose of the project is to practice my skills in CDISC data mapping.
 I took open data from [National Institute on Drug Abuse](https://datashare.nida.nih.gov) 
 and converted them into CDISC datasets.
 
