@@ -1,0 +1,17 @@
+STUDYID,DOMAIN,ARMCD,ARM,TAETORD,ETCD,EPOCH,ELEMENT,TABRANCH,TATRANS
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,1,SCRN,SCREENING ,Screen,,
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,2,WASHOUT,WASHOUT ,Washout,,
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,3,BASE,BASELINE ,Baseline,Randomized to Placebo,
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,4,PLACEBO,TREATMENT ,Placebo,,
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,5,IN_FU,INPATIENT FOLLOW-UP,Inpatient follow-up,,"if decrease in WBC or ANC is not significant, go to outpatient follow-up"
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,6,PLACEBO,TREATMENT ,Placebo,,
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,7,IN_FU,INPATIENT FOLLOW-UP,Inpatient follow-up,,
+NIDA-CPU-0005,TA,PLACEBO,Placebo ,8,OUT_FU,OUTPATIENT FOLLOW-UP,Outpatient follow-up,,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,1,SCRN,SCREENING ,Screen,,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,2,WASHOUT,WASHOUT ,Washout,,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,3,BASE,BASELINE ,Baseline,Randomized to Vanoxerine,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,4,VNX,TREATMENT ,Vanoxerine,,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,5,IN_FU,INPATIENT FOLLOW-UP,Inpatient follow-up,,"if decrease in WBC or ANC is not significant, go to outpatient follow-up"
+NIDA-CPU-0005,TA,VNX,Vanoxerine,6,VNX,TREATMENT ,Vanoxerine,,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,7,IN_FU,INPATIENT FOLLOW-UP,Inpatient follow-up,,
+NIDA-CPU-0005,TA,VNX,Vanoxerine,8,OUT_FU,OUTPATIENT FOLLOW-UP,Outpatient follow-up,,
