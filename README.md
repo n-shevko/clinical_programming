@@ -1,5 +1,5 @@
 I took open data from [National Institute on Drug Abuse](https://datashare.nida.nih.gov) 
-and converted them into CDISC datasets.
+and converted (partially) them into CDISC datasets.
 
 **Study ID:** NIDA-CPU-0005  
 **Study Title:** VANOXERINE IN COCAINE EXPERIENCED AFRICAN AMERICAN VOLUNTEERS  
