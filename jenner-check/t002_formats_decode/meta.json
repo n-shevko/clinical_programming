@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_formats_decode",
+  "source_file": "sdtm/formats.sas",
+  "source_blob_sha": "516f44c65aaedd2ce299b74736904358f42db8e3",
+  "source_commit": "d9eef45fc894cc9e08b68c55bb30df02e1ddb044",
+  "notes": "proc format reproduced verbatim from formats.sas (sex/race///aesev/aeser/aeacn/aeacnoth/aerel/aeout). A caller decodes mock coded values with put() the way DM.sas/AE.sas apply these formats. Inline datalines, no data file read."
+}

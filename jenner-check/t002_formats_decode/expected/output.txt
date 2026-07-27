@@ -1,0 +1,7 @@
+
+  Obs  sex                       race    armcd         arm     aesev  aeser           aerel                 aeout
+-----  ---  -------------------------  -------  ----------  --------  -----  --------------  --------------------
+    1  M    BLACK OR AFRICAN AMERICAN  VNX      Vanoxerine  MODERATE  Y      POSSIBLY        RECOVERED/RESOLVED
+    2  F    WHITE                      PLACEBO  Placebo     MILD      N      DEFINITELY NOT  FATAL
+    3  M    ASIAN                      VNX      Vanoxerine  SEVERE    Y      DEFINITELY      RECOVERING/RESOLVING
+

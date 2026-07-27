@@ -1,0 +1,9 @@
+{
+  "bundle": "t003_ta_domain",
+  "source_file": "sdtm/TA.sas",
+  "source_data_file": "sdtm/TA.csv",
+  "source_blob_sha": "4fd83084b645c2f4e5e9cc3db7f0ba9d731f7b97",
+  "source_data_blob_sha": "ee1f00ae8c5ceefa54684544735b30644c7ddf71",
+  "source_commit": "d9eef45fc894cc9e08b68c55bb30df02e1ddb044",
+  "notes": "Adapted from TA.sas: builds and prints the Trial Arms domain from the study's own 16 TA.csv rows, embedded verbatim as dsd-parsed datalines (quoted-comma TATRANS notes preserved). The metadata-template merge and xpt export in the original need external metadata.xlsx and are omitted. Self-contained so the shipped runner reproduces it with no uploaded input."
+}

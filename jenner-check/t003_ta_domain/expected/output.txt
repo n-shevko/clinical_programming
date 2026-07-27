@@ -1,0 +1,20 @@
+
+  Obs        STUDYID  DOMAIN    ARMCD         ARM     ETCD                 EPOCH               ELEMENT                  TABRANCH                                                                   TATRANS  TAETORD
+-----  -------------  ------  -------  ----------  -------  --------------------  --------------------  ------------------------  ------------------------------------------------------------------------  -------
+    1  NIDA-CPU-0005  TA      PLACEBO  Placebo     SCRN     SCREENING             Screen                                                                                                                          1
+    2  NIDA-CPU-0005  TA      PLACEBO  Placebo     WASHOUT  WASHOUT               Washout                                                                                                                         2
+    3  NIDA-CPU-0005  TA      PLACEBO  Placebo     BASE     BASELINE              Baseline              Randomized to Placebo                                                                                     3
+    4  NIDA-CPU-0005  TA      PLACEBO  Placebo     PLACEBO  TREATMENT             Placebo                                                                                                                         4
+    5  NIDA-CPU-0005  TA      PLACEBO  Placebo     IN_FU    INPATIENT FOLLOW-UP   Inpatient follow-up                             if decrease in WBC or ANC is not significant, go to outpatient follow-up        5
+    6  NIDA-CPU-0005  TA      PLACEBO  Placebo     PLACEBO  TREATMENT             Placebo                                                                                                                         6
+    7  NIDA-CPU-0005  TA      PLACEBO  Placebo     IN_FU    INPATIENT FOLLOW-UP   Inpatient follow-up                                                                                                             7
+    8  NIDA-CPU-0005  TA      PLACEBO  Placebo     OUT_FU   OUTPATIENT FOLLOW-UP  Outpatient follow-up                                                                                                            8
+    9  NIDA-CPU-0005  TA      VNX      Vanoxerine  SCRN     SCREENING             Screen                                                                                                                          1
+   10  NIDA-CPU-0005  TA      VNX      Vanoxerine  WASHOUT  WASHOUT               Washout                                                                                                                         2
+   11  NIDA-CPU-0005  TA      VNX      Vanoxerine  BASE     BASELINE              Baseline              Randomized to Vanoxerine                                                                                  3
+   12  NIDA-CPU-0005  TA      VNX      Vanoxerine  VNX      TREATMENT             Vanoxerine                                                                                                                      4
+   13  NIDA-CPU-0005  TA      VNX      Vanoxerine  IN_FU    INPATIENT FOLLOW-UP   Inpatient follow-up                             if decrease in WBC or ANC is not significant, go to outpatient follow-up        5
+   14  NIDA-CPU-0005  TA      VNX      Vanoxerine  VNX      TREATMENT             Vanoxerine                                                                                                                      6
+   15  NIDA-CPU-0005  TA      VNX      Vanoxerine  IN_FU    INPATIENT FOLLOW-UP   Inpatient follow-up                                                                                                             7
+   16  NIDA-CPU-0005  TA      VNX      Vanoxerine  OUT_FU   OUTPATIENT FOLLOW-UP  Outpatient follow-up                                                                                                            8
+

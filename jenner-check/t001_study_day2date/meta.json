@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_study_day2date",
+  "source_file": "macroses/common.sas",
+  "source_blob_sha": "aee7ebf3b4e41f00fb02f507728cfb841bb96fe3",
+  "source_commit": "d9eef45fc894cc9e08b68c55bb30df02e1ddb044",
+  "notes": "Reproduces %zero_day_fix and %study_day2date verbatim from common.sas; a small caller derives AE start/stop dates from mock study days relative to rfstdtc=2003-10-25 (as AE.sas/DM.sas do). Inline datalines, no data file read."
+}
